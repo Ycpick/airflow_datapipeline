@@ -1,2 +1,2 @@
 # airflow_datapipeline
-Moving data from MSSQL Server to Hive by using Spark
+Moving data from MSSQL Server to Hive using Spark
